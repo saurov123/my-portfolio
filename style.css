@@ -5,7 +5,7 @@ font-family: sans-serif;}
 .first_p_one { width: 50%;
 height: 400px;
 float: left;
-background-image: url(image/pexels-henry-&-co-2341290.jpg);}
+background-image: url(image/white-marble-texture-background-high-resolution-217505953.jpg);}
 
 .first_p_one h1 { color: blue;
 padding: 30px 30px;}
@@ -61,3 +61,44 @@ margin-left: 30px;}
 .second-two button a { text-decoration: none;
 color: white;
 font-size: 16px;}
+
+.third { height: 50px;
+width: 100%;}
+
+.third h1 { margin-left: 90px;}
+
+.fourth { width: 100%;
+height: 400px;}
+
+.fourth_one { width: 40%;
+height: 300px;
+float: left;
+margin-left: 4%;
+margin-right: 5%;
+box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+border-image: linear-gradient(to top, #feac5e, #c779d0, #4bc0c8);
+border-image-slice: 1;
+border-left: 7px solid;}
+
+.fourth_one h2 { padding-left: 10px;
+color: skyblue;}
+.fourth_one h4 {padding-left: 10px;
+    padding-right: 5px;
+text-align: justify;
+color: violet;}
+.fourth_two { width: 40%;
+height: 300px;
+float: left;
+margin-left: 4%;
+margin-right: 5%;
+box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+border-image: linear-gradient(to top, #ffa17f, #00223e);
+border-image-slice: 1;
+border-left: 7px solid;}
+
+.fourth_two h2 { padding-left: 10px;
+color: #00223e;} 
+.fourth_two h4 { padding-left: 10px;
+    padding-right: 5px;
+text-align: justify;
+color: rgba(63, 31, 9, 0.541);}

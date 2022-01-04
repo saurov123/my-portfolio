@@ -5,7 +5,7 @@ font-family: sans-serif;}
 .first_p_one { width: 50%;
 height: 400px;
 float: left;
-background-color: olive;}
+background-image: url(image/pexels-henry-&-co-2341290.jpg);}
 
 .first_p_one h1 { color: blue;
 padding: 30px 30px;}
@@ -17,11 +17,12 @@ text-align: justify;}
 .first-p-two {width: 50%;
 height: 400px;
 float: left;
-background-color: olivedrab;}
+}
 .first-p-two img {height: 220px;
 width: 300px;
 padding-left: 180px;
-padding-top: 90px;}
+padding-top: 90px;
+}
 .first_p_one button {padding: 10px 30px;
     background-image: linear-gradient(to right, #00c6ff, #0072ff);
 
@@ -31,3 +32,32 @@ border-radius: 3px;
 }
 .first_p_one a { text-decoration: none;
 color: white;}
+
+.second { width: 100%;
+height: 400px;}
+
+.second-one { height: 400px;
+width: 50%;
+float: left;}
+.second-one img { height: 220px;
+width: 300px;
+margin-left: 100px;
+margin-top: 60px;}
+
+.second-two { height: 400px;
+width: 50%;
+float: left;
+background-image: url(image/white-marble-texture-background-high-resolution-217505953.jpg);}
+.second-two h1 { margin-left: 30px;
+color: orange;}
+.second-two p { margin-left: 30px;
+margin-right: 40px;
+text-align: justify;}
+.second-two button { padding: 10px 40px;
+background-image: linear-gradient(to right, #c21500, #ffc500);
+border-radius: 1px;
+border: 1px solid black;
+margin-left: 30px;}
+.second-two button a { text-decoration: none;
+color: white;
+font-size: 16px;}
